@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">course_2</string>
+
+    <string-array name="Language">
+        <item>java</item>
+        <item>python</item>
+        <item>c#</item>
+    </string-array>
+</resources>

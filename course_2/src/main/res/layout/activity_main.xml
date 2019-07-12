@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="400dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="腾讯科技讯，7 月 1 日，北京市自动驾驶测试管理联席小组发布首批 T4 级别自动驾驶测试牌照，总计 5 张，全部颁发给百度。 据介绍，T4 是迄今北京市颁发的最高级别自动驾驶测试牌照，T4 牌照意味着自动驾驶车辆需要具备在复杂城市道路自动驾驶的能力，其复杂程度远超 T3 所需应对的道路。 T4 比" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+    <ProgressBar
+        android:id="@+id/pb_progress"
+        android:layout_width="match_parent"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_height="50dp"
+        android:progress="30"/>
+
+    <SeekBar
+        android:id="@+id/sb_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
