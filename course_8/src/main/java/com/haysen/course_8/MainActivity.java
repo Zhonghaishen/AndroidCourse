@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void doDownload(){
         try{
             URL url = new URL(imageUrl);
+
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
